@@ -1,0 +1,11 @@
+sale_id,store_id,product_id,quantity,sale_date,amount,product_name,category,price,store_name,city,region,total_revenue
+1,S101,P101,2.0,2026-06-01,1000.0,Laptop,Electronics,500,Retail Jaipur,Jaipur,North,1000.0
+2,S102,P102,1.0,2026-06-01,500.0,Keyboard,Electronics,500,Retail Delhi,Delhi,North,500.0
+3,S103,P103,0.0,2026-06-02,900.0,Mouse,Electronics,300,Retail Mumbai,Mumbai,West,0.0
+6,S102,P105,3.0,2026-06-03,1500.0,Printer,Electronics,500,Retail Delhi,Delhi,North,1500.0
+7,S101,P103,4.0,2026-06-03,1200.0,Mouse,Electronics,300,Retail Jaipur,Jaipur,North,1200.0
+8,S105,P101,2.0,2026-06-03,1000.0,Laptop,Electronics,500,Retail Bangalore,Bangalore,South,1000.0
+9,S101,P102,1.0,2026-06-04,500.0,Keyboard,Electronics,500,Retail Jaipur,Jaipur,North,500.0
+10,S103,P104,3.0,2026-06-04,1800.0,Monitor,Electronics,600,Retail Mumbai,Mumbai,West,1800.0
+11,S103,P104,4.0,2026-06-04,2400.0,Monitor,Electronics,600,Retail Mumbai,Mumbai,West,2400.0
+12,S102,P105,0.0,2026-06-05,1500.0,Printer,Electronics,500,Retail Delhi,Delhi,North,0.0

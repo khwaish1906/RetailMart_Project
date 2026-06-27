@@ -1,0 +1,6 @@
+store_id,store_name,city,region
+S101,Retail Jaipur,Jaipur,North
+S102,Retail Delhi,Delhi,North
+S103,Retail Mumbai,Mumbai,West
+S104,Retail Pune,Pune,West
+S105,Retail Bangalore,Bangalore,South
